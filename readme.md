@@ -65,7 +65,7 @@ This project is an experimental lie detection system that uses facial analysis, 
 2. Install required packages:
 
 ```bash
-pip install opencv-python mediapipe numpy pillow pandas matplotlib scikit-learn fer
+pip install -r requirements.txt
 ```
 
 ## Project Structure
